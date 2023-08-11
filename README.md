@@ -1,3 +1,3 @@
 # palindrome
 reverseeee
-222
+22
